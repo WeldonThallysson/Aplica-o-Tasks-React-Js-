@@ -15,6 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 ## https://task-online.netlify.app
 
 <div>
-  <img src="https://user-images.githubusercontent.com/65944963/212490419-20a19896-da05-48b6-893c-8b9789c394d2.png"/>
+  <img src="https://user-images.githubusercontent.com/65944963/212490419-20a19896-da05-48b6-893c-8b9789c394d2.png" />
+  <img src="https://user-images.githubusercontent.com/65944963/212490582-16e48dfd-e887-4eb6-b732-537ec90b96aa.png" />
 </div>
 
